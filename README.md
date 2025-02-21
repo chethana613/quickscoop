@@ -1,2 +1,2 @@
 # quickscoop
-VA Enabled Application
+VA Enabled Food Cart Application
