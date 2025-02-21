@@ -1,2 +1,2 @@
 # quickscoop
-VA Enabled Food Cart Application
+Voice Assistance Enabled Food Cart Application
